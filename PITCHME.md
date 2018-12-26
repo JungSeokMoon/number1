@@ -15,7 +15,7 @@
 ---
 # 지경민 
 별명 : 지씨  
-성격 : 아버지같음  
+성격 : 팀의 아버지같은 존재  
 ![1545801777370](https://user-images.githubusercontent.com/46036612/50433226-09d0f680-091a-11e9-8c29-8e9dcdbb8d4b.png)
 
 
