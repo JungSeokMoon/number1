@@ -22,7 +22,7 @@
 ---
 # 안중근 
 별명 :  
-성격 :  
+성격 : 상대방 이야기를 잘 들어주는 성격
 ![1545801777370](https://user-images.githubusercontent.com/46036612/50433226-09d0f680-091a-11e9-8c29-8e9dcdbb8d4b.png)
 
 
