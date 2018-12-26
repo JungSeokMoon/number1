@@ -1,9 +1,10 @@
-# number1
----
+# HI THIS IS 넘바완's TEAM PROJECT
+=====
 
-sheet1
-abcdefg
----
+This is blog
+------
+https://gitpitch.com/JUNGSEOKMOON/number1
 
-sheet2
----
+This is post
+-------
+https://jungseokmoon.github.io/number1/
