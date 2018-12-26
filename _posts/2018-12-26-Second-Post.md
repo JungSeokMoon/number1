@@ -1,7 +1,7 @@
 
-=====================
+===
 Chatbot_MorningCoffee
-=====================
+====
 Slack 챗봇 프로젝트
 이 게시물은 Samsung Software에서 만든 프로젝트
 
