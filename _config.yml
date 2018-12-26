@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Your Name"
 description              : "파워레인저 매직포스"
 url                      : "https://JUNGSEOKMOON.github.io"
-baseurl                  : "/number1"
+baseurl                  : ""
 repository               : "JUNGSEOKMOON/number1"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
